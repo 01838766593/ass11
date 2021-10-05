@@ -5,7 +5,7 @@ import './HomeService.css';
 
 const HomeService = () => {
     const [homeService, setHomeService] = useState([]);
-
+    //fetching data
     useEffect(() => {
         fetch('./fakeData/products.JSON')
             .then(res => res.json())
@@ -14,6 +14,8 @@ const HomeService = () => {
                 setHomeService(data);
             })
     }, []);
+
+    //using react bootstrap
     return (
         <div className="background">
             <h2 className="p-3 text">Premium Services </h2>
