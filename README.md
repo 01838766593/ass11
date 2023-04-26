@@ -2,7 +2,7 @@
 
 ## This project name is "15 Minutes School Teaching Platform"
 
-Assignment Netlify Live Link (https://assignment-9-sayem-mahmud.netlify.app/).
+Assignment Netlify Live Link (https://a9-15minuteschool.netlify.app).
 
 ## Project detailes
 
